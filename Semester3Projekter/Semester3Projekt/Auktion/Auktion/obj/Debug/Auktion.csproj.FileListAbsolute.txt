@@ -17,3 +17,4 @@ C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekter\Semester3Projekt\A
 C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekter\Semester3Projekt\Auktion\Auktion\obj\Debug\Auktion_Content.g.cs
 C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekter\Semester3Projekt\Auktion\Auktion\obj\Debug\Page1.g.cs
 C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekter\Semester3Projekt\Auktion\Auktion\obj\Debug\Page1.baml
+C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekter\Semester3Projekt\Auktion\Auktion\obj\Debug\Auktion.csprojAssemblyReference.cache
