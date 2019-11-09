@@ -17,14 +17,14 @@ namespace Auktionenenene.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Her kan du oprette auktioner";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Her kan du byde";
 
             return View();
         }
