@@ -1,0 +1,8 @@
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
