@@ -1,7 +1,0 @@
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekt\Semester3Projekt\bin\Debug\Semester3Projekt.exe.config
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekt\Semester3Projekt\bin\Debug\Semester3Projekt.exe
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekt\Semester3Projekt\bin\Debug\Semester3Projekt.pdb
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekt\Semester3Projekt\obj\Debug\Semester3Projekt.csprojAssemblyReference.cache
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekt\Semester3Projekt\obj\Debug\Semester3Projekt.csproj.CoreCompileInputs.cache
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekt\Semester3Projekt\obj\Debug\Semester3Projekt.exe
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Semester3Projekt\Semester3Projekt\obj\Debug\Semester3Projekt.pdb
