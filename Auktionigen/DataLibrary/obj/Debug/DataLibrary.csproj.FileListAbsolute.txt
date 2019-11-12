@@ -15,3 +15,11 @@ C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Debug\Dat
 C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
 C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Debug\DataLibrary.dll
 C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Debug\DataLibrary.pdb

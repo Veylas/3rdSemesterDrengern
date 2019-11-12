@@ -157,3 +157,6 @@ C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\Auktionigen\obj\Debug\Auk
 C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csproj.CopyComplete
 C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\Auktionigen\obj\Debug\Auktionigen.dll
 C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\Auktionigen\obj\Debug\Auktionigen.pdb
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csprojAssemblyReference.cache
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\Auktionigen\obj\Debug\Auktionigen.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\Auktionigen\obj\Debug\Auktionigen.pdb
