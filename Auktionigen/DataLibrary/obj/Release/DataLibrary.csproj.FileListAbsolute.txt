@@ -1,9 +1,0 @@
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\bin\Release\DataLibrary.dll
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\bin\Release\DataLibrary.pdb
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\bin\Release\Dapper.dll
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\bin\Release\Dapper.xml
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Release\DataLibrary.csprojAssemblyReference.cache
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Release\DataLibrary.csproj.CoreCompileInputs.cache
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Release\DataLibrary.csproj.CopyComplete
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Release\DataLibrary.dll
-C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\DataLibrary\obj\Release\DataLibrary.pdb

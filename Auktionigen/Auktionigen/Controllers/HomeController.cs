@@ -49,10 +49,5 @@ namespace Auktionigen.Controllers
             }
             return View();
         }
-        public ActionResult CreateProduct()
-        {
-            ViewBag.Message = "Udfyld auktionens informationer her her";
-            return View();
-        }
     }
 }
