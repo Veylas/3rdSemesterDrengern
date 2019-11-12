@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="MVCDemoDB.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\MANCH\SOURCE\REPOS\AUKTIONIGEN\MVCDEMODB\OBJ\DEBUG\MVCDEMODB.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\21CHR\DESKTOP\3RDSEMESTERDRENGERN\AUKTIONIGEN\MVCDEMODB\OBJ\DEBUG\MVCDEMODB.DLL" />
 			<Metadata Name="AssemblyName" Value="MVCDemoDB" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>

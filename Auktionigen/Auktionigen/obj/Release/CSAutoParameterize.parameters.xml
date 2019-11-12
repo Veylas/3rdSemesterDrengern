@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MVCDemoDB-Web.config Connection String" description="MVCDemoDB Connection String used in web.config by the application to access the database." defaultValue="Server=Kraka.ucn.dk;Database=dmaa0918_1074169;User Id=dmaa0918_1074169;&#xD;&#xA;Password=Password1!;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\21chr\\Desktop\\3rdSemesterDrengern\\Auktionigen\\Auktionigen\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MVCDemoDB']/@connectionString" />
+  </parameter>
+</parameters>

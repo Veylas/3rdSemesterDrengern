@@ -8,3 +8,12 @@ C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\Model.xml
 C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\refactor.xml
 C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\postdeploy.sql
 C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\predeploy.sql
+C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\MVCDemoDB\obj\Debug\Model.xml
+C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\MVCDemoDB\obj\Debug\refactor.xml
+C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\MVCDemoDB\obj\Debug\postdeploy.sql
+C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\MVCDemoDB\obj\Debug\predeploy.sql
+C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\21chr\Desktop\3rdSemesterDrengern\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
