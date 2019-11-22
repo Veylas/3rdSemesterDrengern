@@ -1,0 +1,70 @@
+﻿@model IEnumerable<TestLogin.Models.AuctionModel>
+
+@{
+    ViewBag.Title = "ViewAuction";
+}
+
+<h2>ViewAuction</h2>
+
+<div>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Time)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CurrentPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaxPrice)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.CurrentWinner)
+            </th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Time)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CurrentPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaxPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CurrentWinner)
+                </td>
+                <td>
+                    @Html.ActionLink("Bid on this", "BidOnAuction", new { Id = item.Id, CurrentPrice = item.CurrentPrice/* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+
+<div class="container">
+    <form method="post" id="goback" action="~/Account/LoggedIn">
+        <button type="submit" class="btn btn-info"><span class="glyphicon glyphicon-arrow-left" aria-hidden="true">Go Back Dashboard</span></button>
+    </form>
+</div>

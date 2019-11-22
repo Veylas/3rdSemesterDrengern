@@ -1,0 +1,21 @@
+C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.sqlprojAssemblyReference.cache
+C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
+C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\Model.xml
+C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\refactor.xml
+C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\postdeploy.sql
+C:\Users\manch\source\repos\Auktionigen\MVCDemoDB\obj\Debug\predeploy.sql
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.sqlprojAssemblyReference.cache
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\MVCDemoDB\obj\Debug\MVCDemoDB.pdb

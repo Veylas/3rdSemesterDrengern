@@ -1,0 +1,50 @@
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\manch\source\repos\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\manch\Desktop\Auktionigen\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\manch\Desktop\Auktionigen\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\manch\Desktop\Auktionigen\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\manch\Desktop\Auktionigen\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\manch\Desktop\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\manch\Desktop\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\manch\Desktop\Auktionigen\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\manch\Desktop\Auktionigen\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\manch\Desktop\Virk jes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\manch\Desktop\Virk jes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\manch\Desktop\Virk jes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\manch\Desktop\Virk jes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\manch\Desktop\Virk jes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\manch\Desktop\Virk jes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\manch\Desktop\Virk jes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\manch\Desktop\Virk jes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\21chr\Desktop\Kan den åbnes\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache

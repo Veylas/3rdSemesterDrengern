@@ -1,0 +1,318 @@
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Auktionigen.dll.config
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Auktionigen.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Auktionigen.pdb
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\csc.exe
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\csc.exe.config
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\csc.rsp
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\csi.exe
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\csi.exe.config
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\csi.rsp
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.AppContext.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Console.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.IO.Compression.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Security.Claims.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.ValueTuple.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\vbc.exe
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\vbc.exe.config
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\vbc.rsp
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\VBCSCompiler.exe
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Antlr3.Runtime.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Newtonsoft.Json.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.Helpers.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.Mvc.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.Optimization.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.Razor.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.WebPages.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.WebPages.Razor.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\WebGrease.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.Helpers.xml
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.Mvc.xml
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.Optimization.xml
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.Razor.xml
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.WebPages.xml
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\System.Web.WebPages.Razor.xml
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Newtonsoft.Json.xml
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Antlr3.Runtime.pdb
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csproj.CopyComplete
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\obj\Debug\Auktionigen.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\obj\Debug\Auktionigen.pdb
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csprojAssemblyReference.cache
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\DataLibrary.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Dapper.dll
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\DataLibrary.pdb
+C:\Users\manch\source\repos\Auktionigen\Auktionigen\bin\Dapper.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Auktionigen.dll.config
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Auktionigen.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Auktionigen.pdb
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\csc.exe
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\csc.exe.config
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\csc.rsp
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\csi.exe
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\csi.exe.config
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\csi.rsp
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.AppContext.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Console.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.IO.Compression.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Security.Claims.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.ValueTuple.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\vbc.exe
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\vbc.exe.config
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\vbc.rsp
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\VBCSCompiler.exe
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Antlr3.Runtime.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\DataLibrary.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Newtonsoft.Json.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.Helpers.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.Mvc.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.Optimization.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.Razor.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.WebPages.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.WebPages.Razor.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\WebGrease.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Dapper.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\DataLibrary.pdb
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.Helpers.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.Mvc.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.Optimization.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.Razor.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.WebPages.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\System.Web.WebPages.Razor.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Newtonsoft.Json.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Antlr3.Runtime.pdb
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\bin\Dapper.xml
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csprojAssemblyReference.cache
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csproj.CopyComplete
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\obj\Debug\Auktionigen.dll
+C:\Users\manch\Desktop\Auktionigen\Auktionigen\obj\Debug\Auktionigen.pdb
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Auktionigen.dll.config
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Auktionigen.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Auktionigen.pdb
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\csc.exe
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\csc.exe.config
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\csc.rsp
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\csi.exe
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\csi.exe.config
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\csi.rsp
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.AppContext.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Console.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.IO.Compression.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Security.Claims.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.ValueTuple.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\vbc.exe
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\vbc.exe.config
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\vbc.rsp
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\VBCSCompiler.exe
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Antlr3.Runtime.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\DataLibrary.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Newtonsoft.Json.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.Helpers.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.Mvc.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.Optimization.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.Razor.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.WebPages.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.WebPages.Razor.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\WebGrease.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Dapper.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\DataLibrary.pdb
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.Helpers.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.Mvc.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.Optimization.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.Razor.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.WebPages.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\System.Web.WebPages.Razor.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Newtonsoft.Json.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Antlr3.Runtime.pdb
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\bin\Dapper.xml
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csproj.CoreCompileInputs.cache
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csproj.CopyComplete
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\obj\Debug\Auktionigen.dll
+C:\Users\21chr\Desktop\Auktions copy\Auktionigen\Auktionigen\obj\Debug\Auktionigen.pdb
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Auktionigen.dll.config
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Auktionigen.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Auktionigen.pdb
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\csc.exe
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\csc.exe.config
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\csc.rsp
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\csi.exe
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\csi.exe.config
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\csi.rsp
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.AppContext.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Console.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.IO.Compression.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Security.Claims.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.ValueTuple.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\vbc.exe
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\vbc.exe.config
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\vbc.rsp
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\VBCSCompiler.exe
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Antlr3.Runtime.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\DataLibrary.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Newtonsoft.Json.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.Helpers.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.Mvc.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.Optimization.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.Razor.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.WebPages.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.WebPages.Razor.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\WebGrease.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Dapper.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\DataLibrary.pdb
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.Helpers.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.Mvc.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.Optimization.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.Razor.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.WebPages.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\System.Web.WebPages.Razor.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Newtonsoft.Json.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Antlr3.Runtime.pdb
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\bin\Dapper.xml
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csproj.CoreCompileInputs.cache
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\obj\Debug\Auktionigen.csproj.CopyComplete
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\obj\Debug\Auktionigen.dll
+C:\Users\21chr\Desktop\3rd semest git er bae godt\Auktion-bongo-bongo\Auktion\Auktionigen\Auktionigen\obj\Debug\Auktionigen.pdb
