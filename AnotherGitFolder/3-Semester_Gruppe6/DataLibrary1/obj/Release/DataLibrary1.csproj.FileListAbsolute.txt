@@ -1,0 +1,17 @@
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\DataLibrary1.dll.config
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\DataLibrary1.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\DataLibrary1.pdb
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\Dapper.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\EntityFramework.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\Dapper.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\obj\Release\DataLibrary1.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\obj\Release\DataLibrary1.csproj.CopyComplete
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\obj\Release\DataLibrary1.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\obj\Release\DataLibrary1.pdb

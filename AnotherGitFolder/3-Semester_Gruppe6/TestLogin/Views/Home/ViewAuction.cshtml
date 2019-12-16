@@ -1,0 +1,85 @@
+﻿@model IEnumerable<TestLogin.Models.AuctionModel>
+
+@{
+    ViewBag.Title = "ViewAuction";
+}
+
+<h2>Auktioner</h2>
+
+<p>
+    @Html.ActionLink("Lav ny auktion", "CreateAuction")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Category)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrentWinner)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OwnerId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Bid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MaxPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrentPrice)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.EndDate)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Title)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Description)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Category)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.CurrentWinner)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.OwnerId)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Bid)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.MaxPrice)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.CurrentPrice)
+    </td>
+    <td>
+        @if (item.CurrentPrice + item.Bid < item.MaxPrice & (item.CurrentPrice + item.Bid) != item.MaxPrice)
+        {
+            @Html.ActionLink("Byd", "BidOnAuction", new { Id = item.Id, CurrentPrice = item.CurrentPrice, Bid = item.Bid })
+        }
+    </td>
+    <td>
+        @Html.ActionLink("Buyout", "BuyoutAuction", new { Id = item.Id, Status = item.Status, MaxPrice = item.MaxPrice })
+    </td>
+</tr>
+    }
+
+</table>

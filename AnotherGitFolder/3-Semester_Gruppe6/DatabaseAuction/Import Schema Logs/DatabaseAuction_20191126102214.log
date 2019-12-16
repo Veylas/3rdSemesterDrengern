@@ -1,0 +1,77 @@
+26-11-2019 23:22:14	This log contains information about the import schema operation into project 'DatabaseAuction' on computer 'LAPTOP-77T5UQ1A' by user '21chr'.
+26-11-2019 23:22:14	Import of database schema has started.
+26-11-2019 23:22:28	Gathering database options
+26-11-2019 23:22:28	Gathering users
+26-11-2019 23:22:28	Gathering roles
+26-11-2019 23:22:28	Gathering application roles
+26-11-2019 23:22:28	Gathering role memberships
+26-11-2019 23:22:28	Gathering filegroups
+26-11-2019 23:22:28	Gathering full-text catalogs
+26-11-2019 23:22:28	Gathering assemblies
+26-11-2019 23:22:28	Gathering certificates
+26-11-2019 23:22:28	Gathering asymmetric keys
+26-11-2019 23:22:28	Gathering symmetric keys
+26-11-2019 23:22:28	Gathering encrypted symmetric keys
+26-11-2019 23:22:28	Gathering schemas
+26-11-2019 23:22:28	Gathering XML schema collections
+26-11-2019 23:22:28	Gathering user-defined data types
+26-11-2019 23:22:28	Gathering user-defined types
+26-11-2019 23:22:28	Gathering table types
+26-11-2019 23:22:28	Gathering unique keys for table types
+26-11-2019 23:22:28	Gathering primary keys for table types
+26-11-2019 23:22:28	Gathering indexes for table types
+26-11-2019 23:22:28	Gathering check constraints for table types
+26-11-2019 23:22:28	Gathering default constraints for table types
+26-11-2019 23:22:28	Gathering partition functions
+26-11-2019 23:22:28	Gathering partition schemes
+26-11-2019 23:22:28	Gathering functions
+26-11-2019 23:22:28	Gathering encrypted functions
+26-11-2019 23:22:28	Gathering aggregates
+26-11-2019 23:22:28	Gathering procedures
+26-11-2019 23:22:28	Gathering encrypted procedures
+26-11-2019 23:22:28	Gathering tables
+26-11-2019 23:22:28	Gathering primary keys
+26-11-2019 23:22:28	Gathering unique constraints
+26-11-2019 23:22:28	Gathering foreign keys
+26-11-2019 23:22:28	Gathering default constraints
+26-11-2019 23:22:28	Gathering check constraints
+26-11-2019 23:22:28	Gathering views
+26-11-2019 23:22:28	Gathering encrypted views
+26-11-2019 23:22:28	Gathering indexes
+26-11-2019 23:22:28	Gathering statistics
+26-11-2019 23:22:28	Gathering full-text index stoplists
+26-11-2019 23:22:28	Gathering search property lists
+26-11-2019 23:22:28	Gathering search properties
+26-11-2019 23:22:28	Gathering full-text indexes
+26-11-2019 23:22:28	Gathering column store indexes
+26-11-2019 23:22:28	Gathering spatial indexes
+26-11-2019 23:22:28	Gathering XML indexes
+26-11-2019 23:22:28	Gathering Selective XML indexes
+26-11-2019 23:22:28	Gathering encrypted triggers
+26-11-2019 23:22:28	Gathering triggers
+26-11-2019 23:22:28	Gathering encrypted and clr ddl triggers
+26-11-2019 23:22:28	Gathering ddl triggers
+26-11-2019 23:22:28	Gathering synonyms
+26-11-2019 23:22:28	Gathering defaults
+26-11-2019 23:22:28	Gathering data constraint uddt bindings
+26-11-2019 23:22:28	Gathering rules
+26-11-2019 23:22:28	Gathering data constraint uddt bindings
+26-11-2019 23:22:28	Gathering message types
+26-11-2019 23:22:28	Gathering queues
+26-11-2019 23:22:28	Gathering contracts
+26-11-2019 23:22:28	Gathering services
+26-11-2019 23:22:28	Gathering event notifications
+26-11-2019 23:22:28	Gathering remote service bindings
+26-11-2019 23:22:28	Gathering broker priorities
+26-11-2019 23:22:28	Gathering signatures
+26-11-2019 23:22:28	Gathering data compression options
+26-11-2019 23:22:28	Gathering sequence types
+26-11-2019 23:22:28	Gathering extended properties
+26-11-2019 23:22:30	Gathering credentials
+26-11-2019 23:22:30	Gathering logins
+26-11-2019 23:22:30	Gathering server audits
+26-11-2019 23:22:31	Scanning project for duplicate elements
+26-11-2019 23:22:31	Finished duplicate element processing
+26-11-2019 23:22:32	Finished importing database.
+26-11-2019 23:22:32	A summary of the import was saved to the following location: C:\Users\21chr\Desktop\Gongolo\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DatabaseAuction\Import Schema Logs\DatabaseAuction_20191126102214.log
+26-11-2019 23:22:32	Click Finish to continue...

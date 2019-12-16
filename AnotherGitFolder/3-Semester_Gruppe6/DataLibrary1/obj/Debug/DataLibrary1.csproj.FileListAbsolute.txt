@@ -1,0 +1,111 @@
+C:\Users\CHR\Desktop\projectFromGit\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll.config
+C:\Users\CHR\Desktop\projectFromGit\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll
+C:\Users\CHR\Desktop\projectFromGit\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.pdb
+C:\Users\CHR\Desktop\projectFromGit\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\Dapper.dll
+C:\Users\CHR\Desktop\projectFromGit\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\Dapper.xml
+C:\Users\CHR\Desktop\projectFromGit\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csproj.CopyComplete
+C:\Users\CHR\Desktop\projectFromGit\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.dll
+C:\Users\CHR\Desktop\projectFromGit\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.pdb
+C:\Users\CHR\Desktop\projectFromGit\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csprojAssemblyReference.cache
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll.config
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.pdb
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\Dapper.dll
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\Dapper.xml
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csprojAssemblyReference.cache
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csproj.CopyComplete
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.dll
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.pdb
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll.config
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.pdb
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\Dapper.dll
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\Dapper.xml
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csproj.CopyComplete
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.dll
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.pdb
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll.config
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.pdb
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\Dapper.dll
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\Dapper.xml
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csprojAssemblyReference.cache
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csproj.CopyComplete
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.dll
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.pdb
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll.config
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.pdb
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\Dapper.dll
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\bin\Debug\Dapper.xml
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csproj.CopyComplete
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.dll
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.pdb
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.pdb
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll.config
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.pdb
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\Dapper.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\Dapper.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csproj.CopyComplete
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll.config
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.pdb
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\Dapper.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\Dapper.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csproj.CopyComplete
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.pdb
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll.config
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.pdb
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Dapper.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Dapper.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csproj.CopyComplete
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.pdb
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll.config
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\DataLibrary1.pdb
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Dapper.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Dapper.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csprojAssemblyReference.cache
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.csproj.CopyComplete
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\DataLibrary1\obj\Debug\DataLibrary1.pdb
