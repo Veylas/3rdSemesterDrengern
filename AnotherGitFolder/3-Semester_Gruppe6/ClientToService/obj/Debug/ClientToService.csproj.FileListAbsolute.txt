@@ -1,0 +1,207 @@
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.csprojAssemblyReference.cache
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Form1.resources
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Properties.Resources.resources
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.GenerateResource.cache
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.exe.config
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.exe
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.pdb
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.exe
+C:\Users\manch\Desktop\Et auktions program\Jiirs\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Form1.resources
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Properties.Resources.resources
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.GenerateResource.cache
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.exe
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.exe.config
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.exe
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\Tjestinge\FlipFlop\flipflop\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Form2.resources
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.exe.config
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.exe
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.pdb
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.csprojAssemblyReference.cache
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Form1.resources
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Form2.resources
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Properties.Resources.resources
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.GenerateResource.cache
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.exe
+C:\Users\manch\Desktop\Et auktions program\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.exe.config
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.exe
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\bin\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Form1.resources
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Form2.resources
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.Properties.Resources.resources
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.GenerateResource.cache
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.exe
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\Tjestinge\flipflops\flipflops\Jiirs\Auktion-bongo-bongo\Auktion\Auktionigen\ClientToService\obj\Debug\ClientToService.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\ClientToService.exe.config
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\ClientToService.exe
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\obj\Debug\ClientToService.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\obj\Debug\ClientToService.Form1.resources
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\obj\Debug\ClientToService.Form2.resources
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\obj\Debug\ClientToService.Properties.Resources.resources
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.GenerateResource.cache
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\obj\Debug\ClientToService.exe
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\obj\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\EntityFramework.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\EntityFramework.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.CopyComplete
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Owin.dll
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\21chr\Desktop\AuktionTestMap\Auktionigen\ClientToService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\ClientToService.exe.config
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\ClientToService.exe
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\EntityFramework.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Owin.dll
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\obj\Debug\ClientToService.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\obj\Debug\ClientToService.Form1.resources
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\obj\Debug\ClientToService.Form2.resources
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\obj\Debug\ClientToService.Properties.Resources.resources
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.GenerateResource.cache
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.CopyComplete
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\obj\Debug\ClientToService.exe
+C:\Users\21chr\Desktop\Ny mappe (3)\Auktionigen\ClientToService\obj\Debug\ClientToService.pdb
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\ClientToService.exe.config
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\ClientToService.exe
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\ClientToService.pdb
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\EntityFramework.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Owin.dll
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\EntityFramework.xml
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.xml
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\obj\Debug\ClientToService.csprojAssemblyReference.cache
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\obj\Debug\ClientToService.Form1.resources
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\obj\Debug\ClientToService.Form2.resources
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\obj\Debug\ClientToService.Properties.Resources.resources
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.GenerateResource.cache
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.CopyComplete
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\obj\Debug\ClientToService.exe
+C:\Users\manch\Desktop\flipflop\Auktionigen\ClientToService\obj\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\ClientToService.exe.config
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\ClientToService.exe
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\ClientToService.pdb
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\EntityFramework.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Owin.dll
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.csprojAssemblyReference.cache
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.Form2.resources
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.Properties.Resources.resources
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.GenerateResource.cache
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.CopyComplete
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.exe
+C:\Users\21chr\Desktop\Ny mappe (4)\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.pdb
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\ClientToService.exe.config
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\ClientToService.exe
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\ClientToService.pdb
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\EntityFramework.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Owin.dll
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\EntityFramework.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.csprojAssemblyReference.cache
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.Form2.resources
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.Properties.Resources.resources
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.GenerateResource.cache
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.csproj.CopyComplete
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.exe
+C:\Users\CHR\Desktop\3.Sem-endeligt\Auktionigen\Auktionigen\ClientToService\obj\Debug\ClientToService.pdb
