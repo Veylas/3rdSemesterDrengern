@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations.Schema;
+using Foolproof;
 
 namespace TestLogin.Models
 {
@@ -22,11 +23,13 @@ namespace TestLogin.Models
 
         [Display(Name = "Start pris")]
         [Required(ErrorMessage = "Du skal indtaste en start pris")]
+        [LessThan("MaxPrice", ErrorMessage = "'Start Pris' skal være mindre end 'køb nu pris'")]
         [DataType(DataType.Currency)]
         public decimal CurrentPrice { get; set; }
 
         [Display(Name = "Køb nu pris")]
         [Required(ErrorMessage = "Du skal indtaste en max pris")]
+        [GreaterThan("CurrentPrice", ErrorMessage = "'Køb nu pris' skal være større end 'start Pris'")]
         [DataType(DataType.Currency)]
         public decimal MaxPrice { get; set; }
 
